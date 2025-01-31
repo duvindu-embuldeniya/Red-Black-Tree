@@ -1,0 +1,10 @@
+name,month,salary
+duvindu1,january,100000
+duvindu2,january,160000
+duvindu3,january,120000
+duvindu4,january,180000
+duvindu5,january,115000
+duvindu6,january,250000
+duvindu7,january,200000
+duvindu8,january,225000
+duvindu9,january,215000
